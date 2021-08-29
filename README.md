@@ -11,7 +11,7 @@ I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about we
 - 🌱 I’m currently learning Typescript and ThreeJs
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: JS,Python
+-  ⚡ Languages: JS, Python
 
 
 > El Psy Kongroo ❤ Kurisu
