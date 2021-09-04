@@ -8,7 +8,7 @@ I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about we
 🏄‍♂️. 
 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning Typescript and ThreeJs
+- 🌱 I’m currently learning Backend and ThreeJs
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JS, Python
