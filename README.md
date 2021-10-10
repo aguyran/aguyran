@@ -7,7 +7,7 @@
 I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about web technologies and have experience working as a team. I'm also a self proclaimed weeb and internet surfer
 🏄‍♂️. 
 
-- 🔭 I’m currently working on ReactJS
+- 🔭 I’m currently working on a project called "Knipper"
 - 🌱 I’m currently learning Backend
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
