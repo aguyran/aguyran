@@ -4,8 +4,7 @@
 <br/>
 <img src="https://c.tenor.com/rK3k9EgLkhEAAAAC/steins-gate.gif" />
 ## Hi 👋, 
-I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about web technologies and have experience working as a team. I'm also a self proclaimed weeb and internet surfer
-🏄‍♂️. 
+I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about web technologies and have experience working as a team. I'm also a self proclaimed weeb and loves to play video games 🎮. 
 
 - 🔭 I’m currently working on a project called "Knipper" (Typescript,next)
 - 🌱 I’m currently learning Backend
