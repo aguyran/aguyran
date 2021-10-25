@@ -8,7 +8,7 @@ I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about we
 
 - 🔭 I’m currently working on a project called "Knipper" (Typescript,next)
 - 🌱 I’m currently learning Backend
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: tech, memes, anime, javascript
 - 😄 Pronouns: he/him
 - ⚡ Languages: JS, Python, TypeScript
 
