@@ -1,6 +1,6 @@
 
 
-[![Gmail Badge](https://img.shields.io/badge/-aguyran@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguyran@outlook.com)](mailto:aguyran@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-aguyran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguyran@gmail.com)](mailto:aguyran@gmail.com)
 <br/>
 <img src="https://c.tenor.com/rK3k9EgLkhEAAAAC/steins-gate.gif" />
 ## Hello 👋, 
