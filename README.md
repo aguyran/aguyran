@@ -6,7 +6,6 @@
 ## Hello 👋, 
 I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about web technologies and have experience working as a team. I'm also a self proclaimed weeb and loves to play video games 🎮.
 
-- 🔭 I’m currently learning Next.
 - 🌱 I’m currently learning Backend
 - 💬 Ask me about: tech, memes, anime, javascript
 - 😄 Pronouns: he/him
