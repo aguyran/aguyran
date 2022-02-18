@@ -10,7 +10,7 @@ I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about we
 - 🌱 I’m currently doing an internship at Videha.ai
 - 💬 Ask me about: tech, memes, anime, games
 - 😄 Pronouns: he/him
-- ⚡ Languages: JS, Typescript
+- ⚡ Languages: Javascript, Typescript
 - 💻 Frameworks: ReactJS, NextJS
 
 > El Psy Kongroo ❤ Kurisu
