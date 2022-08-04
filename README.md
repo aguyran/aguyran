@@ -10,6 +10,6 @@ I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about we
 - 🌱 I’m currently working as an developer at Hybrowlabs
 - 💬 Ask me about: tech, memes, anime, games
 - 😄 Pronouns: he/him
-- ⚡ Languages: Javascript, Typescript
+- ⚡ Languages: Javascript, Typescript 
 
 > El Psy Kongroo ❤ Kurisu
