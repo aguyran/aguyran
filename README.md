@@ -12,4 +12,4 @@ I'm Aryan Gupta, I'm a software developer 👨‍💻 who is passionate about we
 - 😄 Pronouns: he/him
 - ⚡ Languages: Javascript, Typescript
 
-> El Psy Kongroo ❤ Kurisu 
+> El Psy Kongroo ❤ Kurisu  
